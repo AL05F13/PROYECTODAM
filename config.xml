@@ -5,14 +5,14 @@
      id    = "com.phonegap.Esqueleto"  
      version  = "1.0.0">  
 	 
-   <name> Eventos </name>  
+   <name>PROYECTO DAM</name>  
    
    <description>  
-     Primer Ejemplo de eventos
+     lady gaga
    </description>  
    
-   <author href="https://build.phonegap.com" email="micorreo@gmail.com">  
-       Maria Fernanda Martinez Montaño
+   <author href="https://build.phonegap.com" email="jcampos50373@gmail.com">  
+       Jennifer Campos Corona
    </author>  
    
    <!-- Personaliza la aplicacion y plataforma  -->  
